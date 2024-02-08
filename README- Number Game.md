@@ -1,4 +1,4 @@
-Completed - Task 1
+ Task 1 - Number Game
 
 This is a Number Game created for CodSoft Internship.
 
