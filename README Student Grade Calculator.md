@@ -1,14 +1,14 @@
 Task-2  Grade Calculator
 
-This is the 2nd task of my CodSoft
+This is the 2nd task of my CodSoft Internship
 
-What we have to 
-Input: Take marks obtained (out of 100) in each subject.
+What i have done:
+1.Input: Take marks obtained (out of 100) in each subject.
 
-Calculate Total Marks: Sum up the marks obtained in all subjects.
+2.Calculate Total Marks: Sum up the marks obtained in all subjects.
 
-Calculate Average Percentage: Divide the total marks by the total number of subjects to get the average percentage.
+3.Calculate Average Percentage: Divide the total marks by the total number of subjects to get the average percentage.
 
-Grade Calculation: Assign grades based on the average percentage achieved.
+4.Grade Calculation: Assign grades based on the average percentage achieved.
 
-Display Results: Show the total marks, average percentage, and the corresponding grade to the user
+5.Display Results: Show the total marks, average percentage, and the corresponding grade to the user
